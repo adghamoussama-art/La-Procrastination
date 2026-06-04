@@ -1,4 +1,4 @@
-J’ai développé une interface web éducative et interactive qui explique simplement le phénomène de la procrastination. Le but du projet est de rendre ce sujet plus facile à comprendre en utilisant les bases du développement web comme HTML5, CSS3 et JavaScript.
+J’ai développé une interface web éducative et interactive qui explique simplement le phénomène de la procrastination. Le but du projet est de rendre ce sujet plus facile à comprendre en utilisant les bases du développement web comme HTML5, CSS3.
 
 Le site est organisé comme une petite application multi-pages avec une barre latérale (sidebar) qui permet de naviguer facilement entre les différentes sections.
 
